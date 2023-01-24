@@ -1,0 +1,25 @@
+git init
+git status
+git add .
+git commit -m "first commit"
+
+git status
+
+git log
+git show 4346d291ecaa9618276a8ef18
+
+git remote add origin https://github.com/manju231/central.git
+git push -u origin master
+
+
+https://github.com/manju231/central.git
+
+
+want to ignore some spcific format
+
+
+source code management
+
+	
+
+
